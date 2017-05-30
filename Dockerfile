@@ -1,9 +1,9 @@
-FROM willhallonline/composer
+FROM willhallonline/composer:alpine
 
 # Install PHPCS
 RUN composer global require "squizlabs/php_codesniffer"
 
-WORDDIR /app
+WORKDIR /app
 
 CMD ["phpcs"]
 CMD ["phpcbf"]

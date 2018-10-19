@@ -1,4 +1,8 @@
-# Supported tags and respective ```Dockerfile``` links
+# Docker PHPCS
+
+PHPCodeSniffer inside a container!
+
+### Supported tags and respective ```Dockerfile``` links
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/willhallonline/phpcs.svg)][hub] [![MicroBadger Layers](https://img.shields.io/microbadger/layers/willhallonline/phpcs/alpine.svg)][microbadger] [![Docker Automated build](https://img.shields.io/docker/automated/willhallonline/phpcs.svg)][hub] [![Docker Build Status](https://img.shields.io/docker/build/willhallonline/phpcs.svg)][hub]
 

@@ -2,7 +2,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/willhallonline/phpcs.svg)][hub] [![MicroBadger Layers](https://img.shields.io/microbadger/layers/willhallonline/phpcs/alpine.svg)][microbadger] [![Docker Automated build](https://img.shields.io/docker/automated/willhallonline/phpcs.svg)][hub] [![Docker Build Status](https://img.shields.io/docker/build/willhallonline/phpcs.svg)][hub]
 
-* ```php-7.2```, ```alpine``` [Dockerfile](https://github.com/willhallonline/docker-phpcs/blob/master/alpine/Dockerfile)
+* ```php-7.2```, ```alpine```, ```latest``` [Dockerfile](https://github.com/willhallonline/docker-phpcs/blob/master/alpine/Dockerfile)
 * ```php-7.2-stretch```, ```stretch``` [Dockerfile](https://github.com/willhallonline/docker-phpcs/blob/master/stretch/Dockerfile)
 * ```2.9```, ```2.9-alpine``` [Dockerfile](https://github.com/willhallonline/docker-phpcs/blob/master/29alpine/Dockerfile)
 * ```2.9-stretch``` [Dockerfile](https://github.com/willhallonline/docker-phpcs/blob/master/29stretch/Dockerfile)
